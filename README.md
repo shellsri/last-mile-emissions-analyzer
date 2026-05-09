@@ -2,7 +2,7 @@
 
 A data-driven web application to analyze, predict, and reduce CO₂ emissions from last-mile logistics operations — built as part of sustainability research aligned with the **IIT Madras FedEx SMART Center** focus areas.
 
-**🔗 Live App:** _[Add your Streamlit Cloud link here after deployment]_
+**🔗 Live App:** _[https://last-mile-emissions-analyzer-6fdeb77ibshbytjxkpgw6p.streamlit.app/]_
 
 ---
 
@@ -86,18 +86,3 @@ streamlit run app.py
 └── README.md
 ```
 
----
-
-## 👩‍💻 Author
-
-**Shelly Srivastava**
-B.Tech CSE | National Institute of Technology, Manipur
-📧 shelly.sri18@gmail.com | [GitHub](https://github.com/shellsri)
-
----
-
-## 🔭 Future Scope
-- Integrate real GPS route data for actual distance and traffic patterns
-- Add weather and seasonal features to improve prediction accuracy
-- Extend to multi-modal logistics (air + road + rail)
-- Build a route optimization API using FastAPI
