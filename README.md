@@ -1,7 +1,5 @@
 # 🚚 Last-Mile Delivery Emissions Analyzer
-
-A data-driven web application to analyze, predict, and reduce CO₂ emissions from last-mile logistics operations — built as part of sustainability research aligned with the **IIT Madras FedEx SMART Center** focus areas.
-
+A data-driven web application to analyze, predict, and reduce CO₂ emissions from last-mile logistics operations
 **🔗 Live App:** _[https://last-mile-emissions-analyzer-6fdeb77ibshbytjxkpgw6p.streamlit.app/]_
 
 ---
